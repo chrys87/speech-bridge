@@ -2,7 +2,7 @@
 
 from recognitionDriver import GoogleSpeechRecognition
 from core import environment
-from core import settingsManager
+#from core import settingsManager
 
 class speechBridge():
     def __init__(self):

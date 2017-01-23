@@ -1,0 +1,5 @@
+settings = {
+  'recognition':{
+    'driver':'GoogleSpeechRecognition',
+  },
+}
