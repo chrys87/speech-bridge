@@ -1,0 +1,5 @@
+BASIC
+- capture speech
+- write captured text
+- initial configuration
+
