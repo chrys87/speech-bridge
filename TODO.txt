@@ -2,4 +2,9 @@ BASIC
 - capture speech
 - write captured text
 - initial configuration
+- grammarManager
+- scripts
+- domains
+- application feedback
+
 
